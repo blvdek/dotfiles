@@ -1,2 +1,2 @@
 # dotfiles
-❄️ My Nix OS dotfiles.
+🚧 *Work in progress* 🚧
